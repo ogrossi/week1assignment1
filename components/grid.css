@@ -1,0 +1,37 @@
+.Grid {
+    border: 5px solid black;
+    display: grid;
+    width:500px;
+    margin: 10px auto;
+    background-color: rgb(182, 134, 221);
+    color: black;
+    color:white;
+}
+.NavBar {
+    border: 5px solid black;
+    
+    width: 315px;
+    margin-left: 20px auto;
+    margin-right: auto;
+    background-color:blanchedalmond ;
+    color: black; 
+
+}
+.Body{
+    background-color: blanchedalmond;
+    margin-right: 100px auto;
+    margin-left: 100px auto;
+    width:auto;
+}
+
+h3{
+    color:white;
+}
+
+p{
+    background-color:powderblue;
+    margin-left: 100px auto;
+    margin-right: 100px auto;
+    width:auto;
+    
+}
